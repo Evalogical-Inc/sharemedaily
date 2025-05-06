@@ -16,7 +16,7 @@ An open-source mobile app that delivers daily affirmations and positive quotes t
 
 ### Android
 
-Download the latest APK from [Releases](https://github.com/YOUR_ORG/sharemedaily/releases) and install it on your device.
+Download the latest APK from [Releases](https://github.com/Evalogical-Inc/sharemedaily/releases) and install it on your device.
 
 ### iOS
 
