@@ -2,7 +2,7 @@
 
 An open-source Flutter application that delivers daily affirmations and positive quotes to help boost self-esteem, reduce stress, and cultivate mindfulness.
 
-![ShareMeDaily banner](https://lh3.googleusercontent.com/2AE86QGvpZNOxv_x5IwXIjeMO1w9spzUdOg3Cza-JRWbDRl7d1GWyeqASL8Aw3MBpuM)
+![ShareMeDaily banner](screenshots/banner.png)
 
 ## 📋 Table of Contents
 
@@ -14,7 +14,6 @@ An open-source Flutter application that delivers daily affirmations and positive
 - [Development Setup](#️-development-setup)
 - [Project Structure](#-project-structure)
 - [Configuration](#-configuration)
-- [Testing](#-testing)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -30,22 +29,19 @@ An open-source Flutter application that delivers daily affirmations and positive
 - 🌐 Support for 75+ languages
 - 📱 Responsive design that works across all device sizes
 
-## 🌐 Multi-Language Support
-
-ShareMeDaily supports a wide range of languages including:
-- English (US, UK, Australia, Canada, India)
-- Spanish
-- French
-- German
-- Chinese (Simplified, Traditional)
-- Japanese
-- Korean
-- Arabic
-- Russian
-- Portuguese
-- And 70+ other languages
-
-This internationalization makes the app accessible to users worldwide.
+📱 Screenshots
+<table>
+  <tr>
+    <td><img src="/assets/screenshots/home_screen_light.png" width="200" alt="Home Screen (Light)"/></td>
+    <td><img src="/assets/screenshots/quote_detail_dark.png" width="200" alt="Quote Detail (Dark)"/></td>
+    <td><img src="/assets/screenshots/favorites_light.png" width="200" alt="Favorites (Light)"/></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/screenshots/settings_dark.png" width="200" alt="Settings (Dark)"/></td>
+    <td><img src="/assets/screenshots/notifications.png" width="200" alt="Notifications"/></td>
+    <td><img src="/assets/screenshots/share_quote.png" width="200" alt="Share Quote"/></td>
+  </tr>
+</table>
 
 ## 🏛 Architecture
 
