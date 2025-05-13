@@ -1,0 +1,31 @@
+class CustomIcons {
+  static const String home = 'assets/images/home.svg';
+  static const String homeDark = 'assets/images/home_dark.svg';
+  static const String homeSelected = 'assets/images/home_selected.svg';
+  static const String homeDarkSelected = 'assets/images/home_dark_selected.svg';
+  static const String card = 'assets/images/card.svg';
+  static const String cardDark = 'assets/images/card_dark.svg';
+  static const String cardSelected = 'assets/images/card_selected.svg';
+  static const String cardDarkSelected = 'assets/images/card_dark_selected.svg';
+  static const String search = 'assets/images/search.svg';
+  static const String searchDark = 'assets/images/search_dark.svg';
+  static const String searchSelected = 'assets/images/search_selected.svg';
+  static const String searchDarkSelected = 'assets/images/search_dark_selected.svg';
+  static const String clock = 'assets/images/clock.svg';
+  static const String clockDark = 'assets/images/clock_dark.svg';
+  static const String clockLight = 'assets/images/clock_light.svg';
+  static const String clockSelected = 'assets/images/clock_selected.svg';
+  static const String clockDarkSelected = 'assets/images/clock_dark_selected.svg';
+  static const String favorite = 'assets/images/favorite.svg';
+  static const String favoriteDark = 'assets/images/favorite_dark.svg';
+  static const String favoriteSelected = 'assets/images/favorite_selected.svg';
+  static const String favoriteDarkSelected = 'assets/images/favorite_dark_selected.svg';
+  static const String settingsTheme = 'assets/images/settings_theme.svg';
+  static const String settingsThemeDark = 'assets/images/settings_theme_dark.svg';
+  static const String settingsCategory = 'assets/images/settings_category.svg';
+  static const String settingsCategoryDark = 'assets/images/settings_category_dark.svg';
+  static const String favoritesEmptyLight = 'assets/images/favorites_empty_light.svg';
+  static const String favoritesEmptyDark = 'assets/images/favorites_empty_dark.svg';
+  static const String editsEmptyLight = 'assets/images/edits_empty_light.svg';
+  static const String editsEmptyDark = 'assets/images/edits_empty_dark.svg';
+}

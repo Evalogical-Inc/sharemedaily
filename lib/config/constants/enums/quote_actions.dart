@@ -1,0 +1,1 @@
+enum  QuoteActions { favorite, remove, none }
