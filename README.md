@@ -30,7 +30,7 @@ _Coming soon..._
 2. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_ORG/sharemedaily.git
+git clone https://github.com/Evalogical-Inc/sharemedaily.git
 cd sharemedaily
 flutter pub get
 flutter run
