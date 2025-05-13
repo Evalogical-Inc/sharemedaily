@@ -84,7 +84,8 @@ The app follows a simple and maintainable architecture:
 
 ### Android
 
-Download the latest APK from [Releases](https://github.com/Evalogical-Inc/sharemedaily/releases) and install it on your device.
+<!-- Download the latest APK from [Releases](https://github.com/Evalogical-Inc/sharemedaily/releases) and install it on your device. -->
+Download the latest APK from [Releases](https://play.google.com/store/apps/details?id=com.evalogical.sharemedaily&pli=1) and install it on your device.
 
 ### iOS
 
