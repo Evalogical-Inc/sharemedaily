@@ -29,7 +29,7 @@ An open-source Flutter application that delivers daily affirmations and positive
 - 🌐 Support for 75+ languages
 - 📱 Responsive design that works across all device sizes
 
-📱 Screenshots
+## 📱 Screenshots
 <table>
   <tr>
     <td><img src="/assets/screenshots/unnamed.png" width="200" alt="Home Screen (Light)"/></td>
