@@ -2,7 +2,7 @@
 
 An open-source Flutter application that delivers daily affirmations and positive quotes to help boost self-esteem, reduce stress, and cultivate mindfulness.
 
-![ShareMeDaily banner](screenshots/banner.png)
+![ShareMeDaily banner](assets/screenshots/banner.png)
 
 ## 📋 Table of Contents
 
@@ -32,14 +32,14 @@ An open-source Flutter application that delivers daily affirmations and positive
 📱 Screenshots
 <table>
   <tr>
-    <td><img src="/assets/screenshots/home_screen_light.png" width="200" alt="Home Screen (Light)"/></td>
-    <td><img src="/assets/screenshots/quote_detail_dark.png" width="200" alt="Quote Detail (Dark)"/></td>
-    <td><img src="/assets/screenshots/favorites_light.png" width="200" alt="Favorites (Light)"/></td>
+    <td><img src="/assets/screenshots/unnamed.png" width="200" alt="Home Screen (Light)"/></td>
+    <td><img src="/assets/screenshots/unnamed (1).png" width="200" alt="Quote Detail (Dark)"/></td>
+    <td><img src="/assets/screenshots/unnamed (2).png" width="200" alt="Favorites (Light)"/></td>
   </tr>
   <tr>
-    <td><img src="/assets/screenshots/settings_dark.png" width="200" alt="Settings (Dark)"/></td>
-    <td><img src="/assets/screenshots/notifications.png" width="200" alt="Notifications"/></td>
-    <td><img src="/assets/screenshots/share_quote.png" width="200" alt="Share Quote"/></td>
+    <td><img src="/assets/screenshots/unnamed (3).png" width="200" alt="Settings (Dark)"/></td>
+    <td><img src="/assets/screenshots/unnamed (4).png" width="200" alt="Notifications"/></td>
+    <td><img src="/assets/screenshots/unnamed (5).png" width="200" alt="Share Quote"/></td>
   </tr>
 </table>
 
