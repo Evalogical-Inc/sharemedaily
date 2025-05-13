@@ -2,7 +2,7 @@
 
 An open-source mobile app that delivers daily affirmations and positive quotes to help you boost self-esteem, reduce stress, and cultivate mindfulness.
 
-![ShareMeDaily banner](screenshots/banner.png)
+![ShareMeDaily banner](https://lh3.googleusercontent.com/2AE86QGvpZNOxv_x5IwXIjeMO1w9spzUdOg3Cza-JRWbDRl7d1GWyeqASL8Aw3MBpuM)
 
 ## ✨ Features
 
