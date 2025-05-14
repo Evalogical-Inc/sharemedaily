@@ -26,7 +26,6 @@ An open-source Flutter application that delivers daily affirmations and positive
 - 🎨 Quote customization with editor tools
 - 👤 User profiles with preferences
 - 🌙 Light and dark themes
-- 🌐 Support for 75+ languages
 - 📱 Responsive design that works across all device sizes
 
 ## 📱 Screenshots
