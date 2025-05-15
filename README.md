@@ -102,7 +102,7 @@ The app follows a simple and maintainable architecture:
 
 <!-- Download the latest APK from [Releases](https://github.com/Evalogical-Inc/sharemedaily/releases) and install it on your device. -->
 <!-- Download the latest APK from [Releases](https://play.google.com/store/apps/details?id=com.evalogical.sharemedaily&pli=1) and install it on your device. -->
-<a href='https://play.google.com/store/apps/details?id=com.evalogical.sharemedaily'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="323" height="125"/></a>
+<a href='https://play.google.com/store/apps/details?id=com.evalogical.sharemedaily' target="_blank"><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="323" height="125"/></a>
 
 ### iOS
 
