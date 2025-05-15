@@ -1,3 +1,8 @@
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![GitHub Repo stars](https://img.shields.io/github/stars/Evalogical-Inc/sharemedaily?style=social)](https://github.com/Evalogical-Inc/sharemedaily/stargazers) 
+[![Fork ShareMeDaily](https://img.shields.io/github/forks/Evalogical-Inc/sharemedaily?logo=github&style=social)](https://github.com/Evalogical-Inc/sharemedaily/fork)
+
 # ShareMeDaily
 
 An open-source Flutter application that delivers daily affirmations and positive quotes to help boost self-esteem, reduce stress, and cultivate mindfulness.
@@ -84,7 +89,8 @@ The app follows a simple and maintainable architecture:
 ### Android
 
 <!-- Download the latest APK from [Releases](https://github.com/Evalogical-Inc/sharemedaily/releases) and install it on your device. -->
-Download the latest APK from [Releases](https://play.google.com/store/apps/details?id=com.evalogical.sharemedaily&pli=1) and install it on your device.
+<!-- Download the latest APK from [Releases](https://play.google.com/store/apps/details?id=com.evalogical.sharemedaily&pli=1) and install it on your device. -->
+<a href='https://play.google.com/store/apps/details?id=com.evalogical.sharemedaily'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="323" height="125"/></a>
 
 ### iOS
 
