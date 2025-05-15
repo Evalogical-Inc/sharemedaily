@@ -2,7 +2,7 @@
 
 An open-source Flutter application that delivers daily affirmations and positive quotes to help boost self-esteem, reduce stress, and cultivate mindfulness.
 
-![ShareMeDaily banner](assets/screenshots/banner.png)
+![ShareMeDaily banner](assets/screenshots/banner.jpg)
 
 ## 📋 Table of Contents
 
