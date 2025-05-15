@@ -5,7 +5,19 @@
 
 # ShareMeDaily
 
-An open-source Flutter application that delivers daily affirmations and positive quotes to help boost self-esteem, reduce stress, and cultivate mindfulness.
+<!-- An open-source Flutter application that delivers daily affirmations and positive quotes to help boost self-esteem, reduce stress, and cultivate mindfulness. -->
+
+ShareMeDaily is a free and open-source affirmations and quotes app. It's written using Flutter and is designed to help you boost self-esteem, reduce stress, and cultivate mindfulness through daily positive affirmations. Think of ShareMeDaily as your daily companion for mental well-being that delivers personalized positive content to help you stay motivated and centered.
+
+## 🤔 Do you know?
+
+- How many positive thoughts do you have daily?
+- What quote resonated with you most this week?
+- Which affirmation categories help you the most?
+- How sharing positivity impacts your mental well-being?
+
+A daily affirmation app can help you answer these questions. ShareMeDaily may be simple, but it truly shines in its thoughtfully designed user interface, customization options, and carefully curated content.
+To support our free open source project, please give it a star. ⭐ This means a lot to us. Thank you so much!
 
 ![ShareMeDaily banner](assets/screenshots/banner.jpg)
 
